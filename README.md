@@ -4,7 +4,7 @@
 
 Welcome to the **WhatsApp Chat Analyzer**! This tool allows you to upload your WhatsApp chat history and get insightful analytics about your conversations.
 
-[View Deployed App] [https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/](https://whatsapp-chat-analyzer-kj5e.onrender.com/)
+[View Deployed App](https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/)
 
 ## Features
 
@@ -57,16 +57,7 @@ To run the project locally, follow these steps:
 
 ## Deployment
 
-The application is deployed on [Streamlit Cloud](https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/).
+The application is deployed on [Streamlit Cloud]
 
-## Contributing
 
-Contributions are welcome! Please create an issue or pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can replace the `path-to-your-screenshot1` and `path-to-your-screenshot2` with the actual paths to your images. Additionally, if you have more images or sections, you can add them in the appropriate places.

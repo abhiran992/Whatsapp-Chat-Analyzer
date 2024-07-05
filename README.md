@@ -1,7 +1,3 @@
-Here's the updated README file with the deployment link included:
-
----
-
 # WhatsApp Chat Analyzer
 
 ## Overview

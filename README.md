@@ -4,7 +4,7 @@
 
 Welcome to the **WhatsApp Chat Analyzer**! This tool allows you to upload your WhatsApp chat history and get insightful analytics about your conversations.
 
-[View Deployed App]([https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/](https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/))
+[View Deployed App] https://abhiran992-whatsapp-chat-analyzer-app-ruvchs.streamlit.app/
 
 ## Features
 

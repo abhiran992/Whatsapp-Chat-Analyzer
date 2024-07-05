@@ -17,15 +17,6 @@ Welcome to the **WhatsApp Chat Analyzer**! This tool allows you to upload your W
 - **Most Common Words**: Find out the most common words used in the chat.
 - **Emoji Analysis**: Analyze the emojis used in the chat.
 
-## Screenshots
-
-
-![Top Statistics](path-to-your-screenshot1)
-
-![Uploading image.png…]()
-
-![Monthly Timeline](path-to-your-screenshot2)
-
 ## How to Use
 
 1. **Upload your WhatsApp Chat File**: Click on "Choose a file" in the sidebar to upload your chat file.

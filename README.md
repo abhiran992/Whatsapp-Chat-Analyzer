@@ -19,10 +19,11 @@ Welcome to the **WhatsApp Chat Analyzer**! This tool allows you to upload your W
 
 ## Screenshots
 
-### Top Statistics
+
 ![Top Statistics](path-to-your-screenshot1)
 
-### Monthly Timeline
+![Uploading image.png…]()
+
 ![Monthly Timeline](path-to-your-screenshot2)
 
 ## How to Use

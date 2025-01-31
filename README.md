@@ -16,13 +16,14 @@ Welcome to the **WhatsApp Chat Analyzer**! This tool allows you to upload your W
 ### 1. Landing Page  
 Upon opening the app, you'll be greeted with a clean and intuitive landing page, guiding you to upload your WhatsApp chat file.  
 
-📷 *Screenshot 1*![1](https://github.com/user-attachments/assets/2fb30479-05ca-4965-b0c0-d35db0bd6dc2)
+📷 ![1](https://github.com/user-attachments/assets/2fb30479-05ca-4965-b0c0-d35db0bd6dc2)
   
 
 ### 2. Upload Chat Transcript  
 Simply drag and drop the exported WhatsApp chat file of the person or group you'd like to analyze into the designated area.  
 
-📷 *Screenshot 2*  
+📷 ![2](https://github.com/user-attachments/assets/71dcbd13-5df8-44de-9509-6a996f096edb)
+  
 
 ### 3. Chat Analysis Begins!  
 Once the file is uploaded, the app will process your data and generate various insightful analytics:  
@@ -30,42 +31,50 @@ Once the file is uploaded, the app will process your data and generate various i
 #### 🔹 **Top Statistics**  
 Get a quick overview of key metrics, including total messages, word count, media shared, and links shared.  
 
-📷 *Screenshot*  
+📷 ![3](https://github.com/user-attachments/assets/5b85035e-47b7-44e4-9b85-5dd2b2cc95e7)
+
 
 #### 🔹 **Daily Statistics**  
 Observe daily message trends to understand conversation patterns over time.  
 
-📷 *Screenshot*  
+📷 ![4](https://github.com/user-attachments/assets/ff0a2629-6640-43f0-a0c2-da664ee61509)
+  
 
 #### 🔹 **Activity Map** (Most Active Day & Month)  
 Discover which days and months had the highest chat activity.  
 
-📷 *Screenshot*  
+📷 ![5](https://github.com/user-attachments/assets/463772e9-cb8b-4179-be47-179c0d4f0c76)
+
 
 #### 🔹 **Weekly Activity Map**  
 Visualize how frequently messages were exchanged on different days of the week.  
 
-📷 *Screenshot*  
+📷 ![6](https://github.com/user-attachments/assets/d3dc8d96-fd86-42a2-8f8d-b65f00ebe054)
+
 
 #### 🔹 **Most Active Users**  
 For group chats, identify the most engaged participants based on message count.  
 
-📷 *Screenshot*  
+📷 ![7](https://github.com/user-attachments/assets/5acac7b5-8a88-4ec8-a100-4391989d949e)
+
 
 #### 🔹 **Most Common Words Used**  
 Find out the most frequently occurring words in the conversation.  
 
-📷 *Screenshot*  
+📷 ![8](https://github.com/user-attachments/assets/c252dea8-9982-4128-9bda-5c686ab3c769)
+
 
 #### 🔹 **Emoji Analysis**  
 Get insights into the most frequently used emojis in the chat.  
 
-📷 *Screenshot*  
+📷 ![9](https://github.com/user-attachments/assets/941cae22-5142-455b-9b4b-6c941054fab8)
+
 
 #### 🔹 **Word Cloud**  
 Generate a visually appealing word cloud to represent the most commonly used words in the conversation.  
 
-📷 *Screenshot*  
+📷 ![Uploading 10.PNG…]()
+
 
 ---  
 

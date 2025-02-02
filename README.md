@@ -73,7 +73,7 @@ Get insights into the most frequently used emojis in the chat.
 #### 🔹 **Word Cloud**  
 Generate a visually appealing word cloud to represent the most commonly used words in the conversation.  
 
-📷 ![Uploading 10.PNG…]()
+📷 ![10](![10](https://github.com/user-attachments/assets/d4e60e23-d3c6-49ca-bf61-a927117192b9)
 
 
 ---  
